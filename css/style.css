@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Aref+Ruqaa:400,700");
+.top-heading {
+  text-align: center;
+  font-family: "Aref Ruqaa", serif;
+  color: chocolate;
+  font-weight: bold;
+}
+
+span {
+  text-align: right;
+  font-weight: bold;
+}
